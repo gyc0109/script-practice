@@ -1,1 +1,1 @@
-echo "Hello, Script Practice!"
+echo "Hello world!"
